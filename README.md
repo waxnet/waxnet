@@ -1,6 +1,6 @@
-# b8ff
+# OHR
 
-![](https://komarev.com/ghpvc/?username=b8ff)
+![](https://komarev.com/ghpvc/?username=OHR)
 [![Discord](https://img.shields.io/badge/-b8ff%235826-5865f2?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/649969079133798443 "View on Discord")
 
 ---
@@ -11,7 +11,7 @@
 ---
 
 ### 📊 &nbsp;Stats:
-![b8ff's GitHub stats](https://github-readme-stats.vercel.app/api?username=b8ff&theme=github_dark&count_private=true&show_icons=true&hide_border=false)
+![OHR's GitHub stats](https://github-readme-stats.vercel.app/api?username=OHR&theme=github_dark&count_private=true&show_icons=true&hide_border=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b8ff&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OHR&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
