@@ -1,7 +1,7 @@
 # OHR
 
 ![](https://komarev.com/ghpvc/?username=b8ff)
-[![Discord](https://img.shields.io/badge/-b8ff%235826-5865f2?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/649969079133798443 "View on Discord")
+[![Discord](https://img.shields.io/badge/-b8ff%235826-0078f2?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/1006969856316424352 "View on Discord")
 
 ---
 
