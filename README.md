@@ -11,7 +11,6 @@
 ---
 
 ### 📊 &nbsp;Stats:
-![OHR's GitHub stats](https://github-readme-stats.vercel.app/api?username=b8ff&theme=github_dark&count_private=true&show_icons=true&hide_border=false)
+![Stats](https://github-readme-stats.vercel.app/api?username=b8ff&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b8ff&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=b8ff&theme=dark)
