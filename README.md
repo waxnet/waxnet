@@ -11,6 +11,4 @@
 ---
 
 ### 📊 &nbsp;Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=b8ff&count_private=true&show_icons=true&theme=dark)
 
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=b8ff&theme=dark)
