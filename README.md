@@ -1,7 +1,7 @@
-# b8ff
+# waxnet
 
-![](https://komarev.com/ghpvc/?username=b8ff)
-[![Discord](https://img.shields.io/badge/-b8ff%230078-0078f2?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/1006969856316424352 "View on Discord")
+![](https://komarev.com/ghpvc/?username=waxnet)
+[![Discord](https://img.shields.io/badge/-waxnet%230078-0078f2?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/1006969856316424352 "View on Discord")
 
 ---
 
@@ -11,6 +11,6 @@
 ---
 
 ### 📊 &nbsp;Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=b8ff&count_private=true&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=waxnet&count_private=true&show_icons=true&theme=dark)
 
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=b8ff&theme=dark)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=waxnet&theme=dark)
