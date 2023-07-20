@@ -2,7 +2,7 @@
 
 <p align= "center">
   <kbd>
-    <img  src="https://raw.githubusercontent.com/waxnet/waxnet/main/images/icon.png">
+    <img src="https://raw.githubusercontent.com/waxnet/waxnet/main/images/icon.png">
   </kbd>
 </p>
 
