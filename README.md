@@ -1,13 +1,3 @@
------
-
-<p align= "center">
-  <kbd>
-    <img src="https://raw.githubusercontent.com/waxnet/waxnet/main/images/icon.png">
-  </kbd>
-</p>
-
------
-
 ### <p align="center">☁️ waxnet ☁️</p>
 <p align= "center">
   <img src="https://komarev.com/ghpvc/?username=waxnet">
@@ -57,5 +47,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waxnet&count_private=true&show_icons=true&theme=dark">
 </p>
-
------
