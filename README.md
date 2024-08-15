@@ -1,8 +1,6 @@
 ### <p align="center">☁️ waxnet ☁️</p>
 <p align= "center">
   <img src="https://komarev.com/ghpvc/?username=waxnet">
-  <br>
-  <img src="https://img.shields.io/badge/-waxnet%230078-0078f2?style=flat&logo=Discord&logoColor=white">
 </p>
 
 -----
